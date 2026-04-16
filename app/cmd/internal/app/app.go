@@ -6,6 +6,7 @@ import (
 	"net/http"
 
 	"github.com/julienschmidt/httprouter"
+	httpSwagger "github.com/swaggo/http-swagger"
 )
 
 type App struct {
